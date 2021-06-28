@@ -21,5 +21,5 @@ Install the latest version-
 
 It will install all the required packages automatically.
 
-if you face any error then install that package manually from `requirements.txt`
+if you face any error then install those packages manually from `requirements.txt`
 
