@@ -1,6 +1,6 @@
 # Virtual Assistant
 
-### It is a voice controlled virtual asistant which can do following things 
+### It is a voice controlled virtual assistant which can do following things 
 
 1. Weather forecasting
 2. Launch Windows Applications
