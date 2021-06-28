@@ -10,7 +10,6 @@ warnings.warn("second example of warning!")
 
 obj = JarvisAI.JarvisAssistant()
 
-
 def t2s(text):
     obj.text2speech(text)
 
